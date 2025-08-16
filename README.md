@@ -1,6 +1,11 @@
 # React + Vite
 
+This was part of my learning react js and rest apis from scartch and with olx clone (i used cloudinary and firabase)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+
 
 Currently, two official plugins are available:
 
